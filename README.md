@@ -33,4 +33,4 @@ java FileName
 ```
 
 ## Progress
-- Implementation: 3/X problems solved
+- Implementation: 3/50 problems solved
